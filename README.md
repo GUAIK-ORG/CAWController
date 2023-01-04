@@ -19,3 +19,19 @@ STM32支持JTAG调试，CC2640支持cJTAG调试。
 ### 图片展示
 
 ![](https://github.com/GUAIK-ORG/CAWController/blob/master/imgs/PCB.png?raw=true)
+
+
+
+![](https://github.com/GUAIK-ORG/CAWController/blob/master/imgs/3D_F.png?raw=true)
+
+
+
+![](https://github.com/GUAIK-ORG/CAWController/blob/master/imgs/3D_B.png?raw=true)
+
+![](https://github.com/GUAIK-ORG/CAWController/blob/master/imgs/SHELL.png?raw=true)
+
+![](https://github.com/GUAIK-ORG/CAWController/blob/master/imgs/F.jpg?raw=true)
+
+![](https://github.com/GUAIK-ORG/CAWController/blob/master/imgs/B.jpg?raw=true)
+
+![](https://github.com/GUAIK-ORG/CAWController/blob/master/imgs/Scanner.jpg?raw=true)
